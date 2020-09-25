@@ -15,5 +15,6 @@ class Hacker{
 		h.remove("a");
 		h.remove(2);
 		System.out.println(h.size());
+		System.out.println("did some changes in the code");
 	}
 }
